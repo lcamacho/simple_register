@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30536/plugins/sfPropel15Plugin/trunk/lib/generator
+END
+sfPropelFormGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/30536/plugins/sfPropel15Plugin/trunk/lib/generator/sfPropelFormGenerator.class.php
+END
+sfPropelFormFilterGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/30536/plugins/sfPropel15Plugin/trunk/lib/generator/sfPropelFormFilterGenerator.class.php
+END
+sfPropelGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/30536/plugins/sfPropel15Plugin/trunk/lib/generator/sfPropelGenerator.class.php
+END

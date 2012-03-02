@@ -1,0 +1,38 @@
+propel:
+  attendee:
+    id:           ~
+    name:         { type: varchar(50), required: true }
+    lastname:     { type: varchar(50), required: true }
+    sex:          { type: integer, required: true }
+    birth_year:   { type: integer, required: true }
+    email:        { type: varchar(100), required: true }
+    known_by:     { type: integer, required: false }
+    comments:     { type: varchar(255), required: false }
+    created_at:   ~
+
+  speaker:
+    id:           ~
+    name:         { type: varchar(50), required: true }
+    lastname:     { type: varchar(50), required: true }
+    sex:          { type: integer, required: true }
+    birth_year:   { type: integer, required: true }
+    email:        { type: varchar(100), required: true  }
+    contact:      { type: varchar(255), required: true }
+    website:      { type: varchar(150), required: true }
+    title:        { type: varchar(255), required: true }
+    description:  { type: varchar(255), required: true }
+    created_at:   ~
+    updated_at:   ~
+
+  volunteer:
+    id:           ~
+    name:         { type: varchar(50), required: true }
+    lastname:     { type: varchar(50), required: true }
+    sex:          { type: integer, required: true }
+    birth_year:   { type: integer, required: true }
+    email:        { type: varchar(100), required: true }
+    contact:      { type: varchar(255), required: true }
+    website:      { type: varchar(150), required: false }
+    group:        { type: integer, required: true }
+    created_at:   ~
+    updated_at:   ~

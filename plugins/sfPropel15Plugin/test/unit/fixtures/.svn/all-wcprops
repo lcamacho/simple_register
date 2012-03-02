@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30104/plugins/sfPropel15Plugin/trunk/test/unit/fixtures
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30104/plugins/sfPropel15Plugin/trunk/test/unit/fixtures/schema.xml
+END
+schema.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30104/plugins/sfPropel15Plugin/trunk/test/unit/fixtures/schema.yml
+END
+new_schema.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/30104/plugins/sfPropel15Plugin/trunk/test/unit/fixtures/new_schema.yml
+END

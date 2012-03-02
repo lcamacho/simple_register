@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/modules/inheritance/actions
+END
+actions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/modules/inheritance/actions/actions.class.php
+END

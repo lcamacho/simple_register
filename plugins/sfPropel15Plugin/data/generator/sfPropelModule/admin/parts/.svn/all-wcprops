@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts
+END
+fieldsConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/fieldsConfiguration.php
+END
+processFormAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/processFormAction.php
+END
+deleteAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/deleteAction.php
+END
+createAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/createAction.php
+END
+indexAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/indexAction.php
+END
+filtersAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/filtersAction.php
+END
+configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/configuration.php
+END
+sortingConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/sortingConfiguration.php
+END
+batchAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/batchAction.php
+END
+updateAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/updateAction.php
+END
+paginationConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/paginationConfiguration.php
+END
+sortingAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/sortingAction.php
+END
+filterAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/filterAction.php
+END
+editAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/editAction.php
+END
+paginationAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/paginationAction.php
+END
+newAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/newAction.php
+END
+actionsConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/data/generator/sfPropelModule/admin/parts/actionsConfiguration.php
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/29243/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/filter
+END
+BaseFormFilterPropel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/filter/BaseFormFilterPropel.class.php
+END
+CategoryFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/filter/CategoryFormFilter.class.php
+END
+MovieFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/filter/MovieFormFilter.class.php
+END
+MovieI18nFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/filter/MovieI18nFormFilter.class.php
+END
+ProductFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/filter/ProductFormFilter.class.php
+END
+ProductI18nFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/filter/ProductI18nFormFilter.class.php
+END
+AuthorFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/filter/AuthorFormFilter.class.php
+END
+ArticleFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/filter/ArticleFormFilter.class.php
+END
+AttachmentFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/filter/AttachmentFormFilter.class.php
+END
+BookFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/filter/BookFormFilter.class.php
+END

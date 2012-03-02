@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/30059/plugins/sfPropel15Plugin/trunk/doc
+END
+form.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30059/plugins/sfPropel15Plugin/trunk/doc/form.txt
+END
+admin_generator.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/29247/plugins/sfPropel15Plugin/trunk/doc/admin_generator.txt
+END
+schema.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29352/plugins/sfPropel15Plugin/trunk/doc/schema.txt
+END

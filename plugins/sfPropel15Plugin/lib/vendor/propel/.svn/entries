@@ -1,0 +1,98 @@
+10
+
+dir
+2332
+http://svn.propelorm.org/tags/1.5.6/runtime/lib
+http://svn.propelorm.org
+
+
+
+2011-01-12T20:30:56.146468Z
+2143
+francois
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4126deef-30f4-0310-a2a2-883dd235dc3b
+
+connection
+dir
+
+logger
+dir
+
+adapter
+dir
+
+formatter
+dir
+
+config
+dir
+
+query
+dir
+
+validator
+dir
+
+Propel.php
+file
+
+
+
+
+2012-02-27T23:38:38.000000Z
+ddf20c5005ddac4f3855657474a442e2
+2011-01-12T20:30:56.146468Z
+2143
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29403
+
+collection
+dir
+
+om
+dir
+
+map
+dir
+
+util
+dir
+
+exception
+dir
+

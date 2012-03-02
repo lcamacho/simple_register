@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/crud/config
+END
+crudConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/crud/config/crudConfiguration.class.php
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/crud/config/factories.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/crud/config/app.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/crud/config/settings.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/crud/config/cache.yml
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/crud/config/routing.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/crud/config/security.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/crud/config/filters.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/crud/config/view.yml
+END

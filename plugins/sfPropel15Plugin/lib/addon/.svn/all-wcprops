@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30104/plugins/sfPropel15Plugin/trunk/lib/addon
+END
+sfPropelManyToMany.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/addon/sfPropelManyToMany.class.php
+END
+sfPropelPager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/addon/sfPropelPager.class.php
+END
+sfPropel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/addon/sfPropel.class.php
+END
+sfPropelBehavior.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/addon/sfPropelBehavior.class.php
+END
+sfMixer.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/addon/sfMixer.class.php
+END
+sfPropelDatabaseSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/30104/plugins/sfPropel15Plugin/trunk/lib/addon/sfPropelDatabaseSchema.class.php
+END
+sfPropelData.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/29100/plugins/sfPropel15Plugin/trunk/lib/addon/sfPropelData.class.php
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/29383/plugins/sfPropel15Plugin/trunk/lib/task
+END
+sfPropelBuildFiltersTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelBuildFiltersTask.class.php
+END
+sfPropelBuildAllTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelBuildAllTask.class.php
+END
+sfPropelBuildAllLoadTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelBuildAllLoadTask.class.php
+END
+sfPropelGraphvizTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelGraphvizTask.class.php
+END
+sfPropelDataDumpTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelDataDumpTask.class.php
+END
+sfPropelBuildTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelBuildTask.class.php
+END
+sfPhing.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPhing.class.php
+END
+sfPropelGenerateModuleTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelGenerateModuleTask.class.php
+END
+sfPhingListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPhingListener.php
+END
+sfPropelGenerateAdminTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/29383/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelGenerateAdminTask.class.php
+END
+sfPropelConfigureDatabaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelConfigureDatabaseTask.class.php
+END
+sfPropelBuildFormsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelBuildFormsTask.class.php
+END
+sfPropelDataLoadTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/29100/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelDataLoadTask.class.php
+END
+sfPropelBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/25952/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelBaseTask.class.php
+END
+sfPropelBuildSqlTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelBuildSqlTask.class.php
+END
+sfPropelBuildSchemaTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelBuildSchemaTask.class.php
+END
+sfPropelBuildModelTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelBuildModelTask.class.php
+END
+sfPropelInsertSqlTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelInsertSqlTask.class.php
+END
+sfPropelSchemaToXmlTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelSchemaToXmlTask.class.php
+END
+sfPropelSchemaToYmlTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelSchemaToYmlTask.class.php
+END
+sfPropelGenerateModuleForRouteTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/task/sfPropelGenerateModuleForRouteTask.class.php
+END

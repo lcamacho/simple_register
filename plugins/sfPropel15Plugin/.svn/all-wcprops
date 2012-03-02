@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/31948/plugins/sfPropel15Plugin/trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/LICENSE
+END
+LICENSE.Propel
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29098/plugins/sfPropel15Plugin/trunk/LICENSE.Propel
+END
+package.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/31948/plugins/sfPropel15Plugin/trunk/package.xml.tmpl
+END
+LICENSE.phing
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/LICENSE.phing
+END
+LICENSE.Agavi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/LICENSE.Agavi
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/29549/plugins/sfPropel15Plugin/trunk/README
+END

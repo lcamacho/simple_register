@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/25969/plugins/sfPropel15Plugin/trunk/config
+END
+sfPropel15PluginConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/25952/plugins/sfPropel15Plugin/trunk/config/sfPropel15PluginConfiguration.class.php
+END
+installer.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25969/plugins/sfPropel15Plugin/trunk/config/installer.php
+END
+autoload.yml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25969/plugins/sfPropel15Plugin/trunk/config/autoload.yml
+END

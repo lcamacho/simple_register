@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25969/plugins/sfPropel15Plugin/trunk/config/skeleton/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/25969/plugins/sfPropel15Plugin/trunk/config/skeleton/config/propel.ini
+END
+schema.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/config/skeleton/config/schema.yml
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/config/skeleton/config/databases.yml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/31613/plugins/sfPropel15Plugin/trunk/lib/widget
+END
+sfWidgetFormSchemaOptional.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/31613/plugins/sfPropel15Plugin/trunk/lib/widget/sfWidgetFormSchemaOptional.class.php
+END
+sfWidgetFormSchemaDecoratorEscaped.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/29449/plugins/sfPropel15Plugin/trunk/lib/widget/sfWidgetFormSchemaDecoratorEscaped.class.php
+END
+sfWidgetFormPropelChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/29233/plugins/sfPropel15Plugin/trunk/lib/widget/sfWidgetFormPropelChoice.class.php
+END
+sfWidgetFormPlain.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/29449/plugins/sfPropel15Plugin/trunk/lib/widget/sfWidgetFormPlain.php
+END
+sfWidgetFormDelete.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/29468/plugins/sfPropel15Plugin/trunk/lib/widget/sfWidgetFormDelete.class.php
+END

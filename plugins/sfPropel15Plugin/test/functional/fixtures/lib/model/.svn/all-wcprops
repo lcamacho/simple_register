@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model
+END
+CategoryPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/CategoryPeer.php
+END
+Book.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/Book.php
+END
+MovieI18nPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/MovieI18nPeer.php
+END
+MoviePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/MoviePeer.php
+END
+AuthorArticleQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/AuthorArticleQuery.php
+END
+ProductI18nPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/ProductI18nPeer.php
+END
+ProductPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/ProductPeer.php
+END
+ArticlePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/ArticlePeer.php
+END
+Author.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/Author.php
+END
+CategoryQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/CategoryQuery.php
+END
+AttachmentPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/AttachmentPeer.php
+END
+MovieI18nQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/MovieI18nQuery.php
+END
+MovieQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/MovieQuery.php
+END
+BookPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/BookPeer.php
+END
+AuthorArticle.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/AuthorArticle.php
+END
+ProductI18nQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/ProductI18nQuery.php
+END
+ProductQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/ProductQuery.php
+END
+ArticleQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/ArticleQuery.php
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/Category.php
+END
+AuthorPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/AuthorPeer.php
+END
+AttachmentQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/AttachmentQuery.php
+END
+Movie.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/Movie.php
+END
+MovieI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/MovieI18n.php
+END
+BookQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/BookQuery.php
+END
+Product.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/Product.php
+END
+ProductI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/ProductI18n.php
+END
+AuthorArticlePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/AuthorArticlePeer.php
+END
+Article.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/Article.php
+END
+AuthorQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/AuthorQuery.php
+END
+Attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/lib/model/Attachment.php
+END

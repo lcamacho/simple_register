@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/2144/tags/1.5.6/generator/lib/reverse/pgsql
+END
+PgsqlSchemaParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/2144/tags/1.5.6/generator/lib/reverse/pgsql/PgsqlSchemaParser.php
+END

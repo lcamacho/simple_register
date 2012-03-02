@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30104/plugins/sfPropel15Plugin/trunk/test/unit
+END
+sfMixerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/unit/sfMixerTest.php
+END
+sfPropelDatabaseSchemaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/30104/plugins/sfPropel15Plugin/trunk/test/unit/sfPropelDatabaseSchemaTest.php
+END

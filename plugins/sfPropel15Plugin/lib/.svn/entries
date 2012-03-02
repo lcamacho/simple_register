@@ -1,0 +1,70 @@
+10
+
+dir
+33349
+http://svn.symfony-project.com/plugins/sfPropel15Plugin/trunk/lib
+http://svn.symfony-project.com
+
+
+
+2011-01-13T08:03:01.037562Z
+31817
+francois
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+behavior
+dir
+
+test
+dir
+
+log
+dir
+
+task
+dir
+
+form
+dir
+
+widget
+dir
+
+database
+dir
+
+addon
+dir
+
+validator
+dir
+
+debug
+dir
+
+generator
+dir
+
+routing
+dir
+
+mailer
+dir
+
+vendor
+dir
+

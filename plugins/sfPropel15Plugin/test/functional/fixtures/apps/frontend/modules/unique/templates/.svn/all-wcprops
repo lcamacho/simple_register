@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/frontend/modules/unique/templates
+END
+articleSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/frontend/modules/unique/templates/articleSuccess.php
+END
+editSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/frontend/modules/unique/templates/editSuccess.php
+END
+categorySuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/frontend/modules/unique/templates/categorySuccess.php
+END

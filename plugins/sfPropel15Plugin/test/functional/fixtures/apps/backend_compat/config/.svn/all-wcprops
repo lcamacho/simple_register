@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/config
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/config/factories.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/config/app.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/config/settings.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/config/cache.yml
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/config/routing.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/config/security.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/config/filters.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/config/view.yml
+END
+backend_compatConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/apps/backend_compat/config/backend_compatConfiguration.class.php
+END

@@ -1,0 +1,145 @@
+zxI18nRoutingPlugin
+===================
+
+The `zxI18nRoutingPlugin` extends sfPatternRouting class giving possibility to translate routes patterns static text parts to different languages.
+
+Plugin uses i18n functionality to translate route patterns. E.g. `/group/view` becames `/gruppe/sicht` for `de` culture and `/grupa/widok` in `pl`.
+It has very good effect on indexing pages by search engines (SEO) for multilingual sites.
+
+One of the main goal of creating this plugin was to introduce these feature without any time consuming modifications in existing projects. 
+It doesn't need any changes in existing routes. Plugin installation limits to factories.yml modification and creating XLIFF translation files for chosen languages. 
+Thanks to it you will be able to translate other plugins default patterns language to what you need without plugins routes modification.
+
+Plugin is unit and functional tested and works with each kind of routes and routes collections (see SVN for it). Maybe it would be included in core symfony ;).
+
+Content
+-------
+  * `zxPatternI18nRouting` class which extends sfPatternRouting
+  * `app:zx-routes` task which is extended version of app:routes to show plugin specific generated routes
+  * `app:zx-routes-duplicates` task which looks for duplicated routes (with the same pattern), useful for sites with many routes
+
+Installation
+------------
+
+  * Install the plugin
+
+        $ symfony plugin:install zxI18nRoutingPlugin
+
+  * Change routing class in `factories.yml`  from `sfPatternRouting` to `zxPatternI18nRouting` and add two new params `use_cultures` (default array()) and culture_into_url (default false)
+  
+        all:
+         routing:
+          class: zxPatternI18NRouting
+          param:
+           generate_shortest_url:            true
+           extra_parameters_as_query_string: true
+           use_cultures:                     [pl, de]   # destination cultures. Plugin looks for translations for these cultures.
+           culture_into_url:                 false      # defines if culture should be always placed in url 
+        
+  * Create XLIFF files named routing.pl.xml, routing.de.xml (depends what you need) and place it in i18n directory of your app. (e.g. /apps/frontend/i18n)
+  
+  * Turn on `sf_i18n` in `settings.yml`
+        
+  * Clear the cache
+
+        $ symfony cache:clear
+
+How plugin works
+----------------
+
+For each route defined in application and other plugins, zxI18nroutingPlugin automatically creates additional routes for chosen cultures if translation is possible and stores them in cache.
+Then if you use `url_for` based functions the translated route is automatically chosen. When visitor clicks such link, page opens in desired language (`sf_culture` is set). 
+
+Example: baseing on above installation settings. 
+You define `group_view_route` with `/group/view` pattern. Plugin automatically creates two routes more with 
+patterns `/grupa/widok` for `pl` and `/gruppe/sicht` for `de`. Right now wherever you use `group_view_route` it changes depending on current user culture. When culture
+is `de`, then link is `/gruppe/sicht`. When culture is `pl`, then link is `/grupa/widok`. For any other languages it is default pattern `/group/view`.
+
+Configuration
+-------------
+If plugin is run with default params it behaves exactly as sfPatternRouting. 
+
+There are two configuration parameters which you can change:
+
+  * `use_cultures` - is an array of cultures of your site, plugin looks for translation files for these cultures. If translation is not possible, default pattern is used.
+  
+  * `culture_into_url` - if set to true, the `:sf_culture` parameter is placed on the beginning of each automatically created route (except for patterns which 
+  already contains `:sf_culture`).
+  
+  
+Example 1: `culture_into_url` is `true` and `use_cultures` is `[pl, de]`
+
+You define `group_view_route` with `/group/view` pattern. Plugin automatically creates three routes more with 
+patterns `/pl/grupa/widok` for `pl` and `/de/gruppe/sicht` for `de` and `/:sf_culture/group/view` for other languages. 
+
+
+Example 2: `culture_into_url` is `true` and use_cultures is `[]`
+
+You define `group_view_route` with `/group/view` pattern. Plugin automatically creates one route more with 
+pattern `/:sf_culture/group/view`. If you set `sf_culture` for route `group_view_route`, then that additional pattern will be used.
+
+
+**IMPORTANT!** When `culture_into_url` is `false` check out if translation for different languages gives different patterns, because only one of them will be working. 
+
+Example: if translation of `/test/route` in `pl` and `de` gives `/testy/routed` for both, a page would open with `pl` or `de` (depends on cultures order in `use_cultures` array). 
+Use `app:zx-routes-duplicates` to find conflicts
+
+Case studies
+------------
+
+**Setup:**
+
+  * We defined in factories.yml `use_cultures` as [en, de, pl, fr] 
+  * We got only translation files for `de` and `pl` placed in i18n folder
+  * Route `xz_test_route` is `/group/view`
+  * Current culture is `pl`
+  * Default user culture is `en`
+  
+**Examples of use:**
+
+  * `link_to('','xz_test_route')` gives:
+    * `/grupa/widok` (case 1 when `cultures_into_url` is `false`)
+    * `/pl/grupa/widok` (case 2 when `cultures_into_url` is `true`)
+    * both open page with culture `pl`
+
+  * `link_to('','xz_test_route',array('sf_culture'=>'pl'))` the same as first example    
+    
+  * `link_to('','xz_test_route',array('sf_culture'=>'de'))` gives:
+    * `/gruppe/sicht` (case 1)
+    * `/de/gruppe/sicht` (case 2)
+    * both open page with culture `de`    
+    
+  * `link_to('','xz_test_route', array('sf_culture' => sfConfig::get('sf_default_culture'))` gives:
+    * `/group/view` (case 1 - note that this link will not change user current culture to default)
+    * `/en/group/view` (case 2 - note that such route will always change user culture to default)
+    * first one opens page with current culture or with default culture if browser session starts, second one opens always with default culture
+
+  * `link_to('','xz_test_route',array('sf_culture'=>'fr'))` gives:
+    * `/group/view` (case 1)
+    * `/fr/group/view` (case 2)
+    * the same comment as for above example for default culture.
+
+  * `link_to('','xz_test_route',array('sf_culture'=>'se'))` gives:
+    * `/group/view` (case 1)
+    * `/se/group/view` (case 2)
+    * the same comment as for examples for default culture and `fr`.
+  
+Tests
+-----
+
+If you want to run unit and functional tests, take it from SVN. Change the path to symfony libs directory in dirs.php, which is placed in /test/bootstrap.
+
+Changelog
+---------
+
+### 2010-01-13 | 1.4.0 Stable
+
+ * zaan: Release for symfony 1.4
+
+### 2010-01-13 | 1.3.0 Stable
+
+ * zaan: Release for symfony 1.3
+
+### 2009-08-25 | 1.0.0 Stable
+
+ * zaan: Initial release (symfony 1.2)

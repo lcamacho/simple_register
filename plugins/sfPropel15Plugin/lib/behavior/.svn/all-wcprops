@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/29411/plugins/sfPropel15Plugin/trunk/lib/behavior
+END
+SfPropelBehaviorI18nTranslation.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/behavior/SfPropelBehaviorI18nTranslation.php
+END
+SfPropelBehaviorI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/29411/plugins/sfPropel15Plugin/trunk/lib/behavior/SfPropelBehaviorI18n.php
+END
+SfPropelBehaviorSymfony.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/25962/plugins/sfPropel15Plugin/trunk/lib/behavior/SfPropelBehaviorSymfony.php
+END
+SfPropelBehaviorSymfonyBehaviors.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/27734/plugins/sfPropel15Plugin/trunk/lib/behavior/SfPropelBehaviorSymfonyBehaviors.php
+END
+SfPropelBehaviorTimestampable.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/behavior/SfPropelBehaviorTimestampable.php
+END
+SfPropelBehaviorBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/lib/behavior/SfPropelBehaviorBase.php
+END

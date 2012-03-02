@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/29238/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/29237/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/config/propel.ini
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/config/schema.xml
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/config/rsync_exclude.txt
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/config/databases.yml
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/29238/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/config/ProjectConfiguration.class.php
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/25503/plugins/sfPropel15Plugin/trunk/test/functional/fixtures/config/properties.ini
+END

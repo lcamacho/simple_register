@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/31594/plugins/sfPropel15Plugin/trunk/lib/form
+END
+sfFormPropelCollection.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/30059/plugins/sfPropel15Plugin/trunk/lib/form/sfFormPropelCollection.class.php
+END
+sfFormPropel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/31594/plugins/sfPropel15Plugin/trunk/lib/form/sfFormPropel.class.php
+END
+sfFormFilterPropel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/29246/plugins/sfPropel15Plugin/trunk/lib/form/sfFormFilterPropel.class.php
+END
